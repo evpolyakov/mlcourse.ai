@@ -1,6 +1,6 @@
 ## [mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course
 
-![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg?raw=true)
+![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/main/img/ods_stickers.jpg)
 
 The next (and final) session launches on **September 2, 2019.** Fill in [this form](https://docs.google.com/forms/d/10HAN5huM996snUKjsNYyT_oOlm2uOsTKulKurb3oiNM/) to participate, please explore the main page [mlcourse.ai](https://mlcourse.ai) as well.
 
